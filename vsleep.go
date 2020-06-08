@@ -1,7 +1,7 @@
 package main
 
 /*
-take arg for number of seconds, either int or float of up to 3 digits precision
+take arg for number of seconds, either int or float of up to 1 digit precision
 echo stdin to stdout after sleep
 */
 
