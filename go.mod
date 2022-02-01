@@ -1,4 +1,4 @@
-module vsleep
+module github.com/ewosborne/vsleep
 
 go 1.17
 
